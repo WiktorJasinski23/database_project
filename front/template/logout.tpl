@@ -1,0 +1,3 @@
+<article>
+     Wylogowano pomyślnie
+</article>

@@ -1,0 +1,42 @@
+body{background-color: lightgray; text-align: center;}
+header { height:5%; text-align:center; margin: auto; padding: 1%; font-size: xx-large; font-weight: bold; }
+  
+nav { min-height: 800px; width:15%; float:left; background-color:rgb(198, 230, 241) ;border: 2px solid black; text-align: left; margin: auto; padding: 2px;}
+nav a { padding:10px;  }
+ 
+section {min-height: 800px; width: 84%;display:block; float:left; text-align: center; background-color:  rgb(198, 230, 241); border-bottom: 2px solid black;border-right: 2px solid black;border-top: 2px solid black;}
+section header { font-weight: bold;  text-align:center;}
+
+section p.italic { font-style:italic }
+article{text-align: center; }
+footer { clear:both; text-align:center;  }
+ 
+dt { font-weight: bold; }
+dd { font-style: italic; }
+div.main { padding-left: 15px; }
+p.point { font-weight: bold; }
+p.text { padding-left: 30px; }
+
+
+form{font-weight: bold; line-height:30px;}
+
+fieldset {
+    display: inline-table;
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid ;
+    color: black;
+    border-radius: 5px;
+    background-color: lightgray;
+}
+table{background-color:lightgray ; text-align: center;margin-left:auto;margin-right:auto; border-collapse: collapse; width: 90%;}
+th{font-weight: bold;}
+a {
+    font-weight: bold;
+    text-decoration: none;
+        color: black;
+}
+
+a:hover {
+    color:gray;
+}
